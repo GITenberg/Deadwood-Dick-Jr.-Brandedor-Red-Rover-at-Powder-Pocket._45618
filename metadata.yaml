@@ -1,0 +1,30 @@
+_repo: Deadwood-Dick-Jr.-Brandedor-Red-Rover-at-Powder-Pocket._45618
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45618-h/images/coverlarge.jpg
+creator:
+  author:
+    agent_name: Wheeler, Edward L. (Edward Lytton)
+    aliases:
+    - Wheeler, Edward Lytton
+    - Wheeler, E. L. (Edward Lytton)
+    birthdate: 1854
+    deathdate: 1885
+    gutenberg_agent_id: '5741'
+    url: http://www.gutenberg.org/2009/agents/5741
+description: ''
+gutenberg_issued: '2014-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Fiction'
+title: Deadwood Dick Jr. Branded; or, Red Rover at Powder Pocket.
+url: http://www.gutenberg.org/ebooks/45618
